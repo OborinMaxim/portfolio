@@ -18,6 +18,7 @@ Telegram: https://t.me/maxobor
 
 ### Документы
 - профессиональная переподготовка по направлению «DevOps-инженер» - [диплом](https://github.com/OborinMaxim/portfolio/blob/master/certs/diploma1.jpg), [свидетельство](https://github.com/OborinMaxim/portfolio/blob/master/certs/diploma2.jpg)
+- курс "Введение в Linux" от stepik - [сертификат с отличием](https://stepik.org/cert/2101970)
 - курс «Python-разработка для начинающих» - [свидетельство](https://github.com/OborinMaxim/portfolio/blob/master/certs/python.jpg)
 - курс «Искусственный интеллект: создайте свою первую нейросеть» - [сертификат](https://github.com/OborinMaxim/portfolio/blob/master/certs/neuro.jpg)
 - курс «Первые шаги в JavaScript: создаём сайт и приложение» - [свидетельство](https://github.com/OborinMaxim/portfolio/blob/master/certs/site.jpg)
